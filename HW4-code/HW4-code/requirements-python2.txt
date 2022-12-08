@@ -3,7 +3,7 @@ backports-abc==0.5
 backports.functools-lru-cache==1.5
 backports.shutil-get-terminal-size==1.0.0
 bleach==2.1.2
-certifi==2018.1.18
+certifi==2022.12.7
 configparser==3.5.0
 cycler==0.10.0
 decorator==4.2.1
